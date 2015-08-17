@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    $('select.list_cf').css('min-width', '200px').select2();
+    $('select.list_cf, select.user_cf').css('min-width', '200px').select2();
 });
